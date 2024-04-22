@@ -21,7 +21,7 @@ Before you start to code, you need to have basic ideas on the following concepts
 **Object** is a group of values put together as a unit. Object is also called structure in other programming languages such. Object helps you organized your code by grouping related values and processing them as a unit. We will talk about object in our article on objects, however, knowing the basic meaning of object is sufficient for you to start you coding journey.
 
 ### Variable
-**Variable** is a refrence to value. Variable or **identifier** is used to refer to value from other locations in our program. We can say variables are way of identifying value. Let us look at some examples;
+**Variable** is a refrence to a value. Variable or **identifier** is used to refer to a value from other locations in our program. We can say variables are way of identifying value. Let us look at some examples;
 ```
 income = 12000
 tax = 500
@@ -41,7 +41,7 @@ net_income = income - tax
 ```
 
 ### Expression
-**Expression** is any mathematical or logical manipulation of value that can produce another value. Expression is when you combine two more values to produce a new value. For example, if you add 2 to 3 you get 5. Let's look at examples of expression through pseudocode;
+**Expression** is any mathematical or logical manipulation of a value that can produce another value. Expression is when you combine two more values to produce a new value. For example, if you add 2 to 3 you get 5. Let's look at examples of expression through pseudocode;
 ```
 length = 120
 breadth = 60
