@@ -28,11 +28,11 @@ tax = 500
 net_income = income - tax
 
 ```
-You create a **name** or **identifier** by typing the followed by **=**, then followed by a value. **=** is used in most programming language to **assigned** value to an identifier.
+You create a **name** or **identifier** by typing the name of the identifier followed by **=**, then followed by a value. **=** is used in most programming language to **assigned** value to an identifier.
 
-In some programming languages, you can even create a **identifier** without actually assigning value to it. To create identifier without assigning value to it is called **variable declaration**.
+In some programming languages, you can even create an **identifier** without actually assigning value to it. To create identifier without assigning value to it is called **variable declaration**.
 
-It is even compulsory to declare an identifier before assigning value to it in some programming language. Let's take Javascript for example, to declare an identifier you need to prefix the identifier with **var**, **let** or **const**;
+It is even compulsory to declare an identifier before assigning value to it, in some programming language. Let's take Javascript for example, to declare an identifier you need to prefix the identifier with **var**, **let** or **const**;
 ```javascript
 var net_income
 let income = 12000
