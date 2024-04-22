@@ -14,7 +14,7 @@ Before you start to code, you need to have basic ideas on the following concepts
 
 **Numeric** values are number values such as 1, 0.5, -1 etc. numeric values can be integers, which are numbers without decimal point. Numeric values can also be floats, which are numbers with decimal point. Some programming language can have more types of numeric value while others might even have just one.
 
-**string** is a list of characters. Characters here means any symbol, especially those symbols used in written languages. String is usually indicated by double aphostrope or single aphostrope in various programming language. Example of string can be `"Hello Programming Language"`, `'Programming is awesome!"`, etc
+**String** is a list of characters. Characters here means any symbol, especially those symbols used in written languages. String is usually indicated by double aphostrope or single aphostrope in various programming language. Example of string can be `"Hello Programming Language"`, `'Programming is awesome!"`, etc
 
 **Array** is a collection of values. An array can be a collection of values of different types or a collection of values of same type. Different programming languages use different notations to denot array. Array can be denoted with pair of [], {}, or (). Examples; `score = [3, 4,10, 8]`
 
@@ -56,24 +56,21 @@ If a function produces new value, we say the function **return value**. A functi
 
 A function can also be given value or values to to manipulate. In coding terminologies, the values that we give a function to manipulate are called **arguments**.
 
-Usually a function has a particula number of **arguments** that needs in order for it to produce a correct value. The number of arguments that a function need are called **parameters**.
+Usually a function has a particular number of **arguments** that it needs in order for it to produce a correct value. The number of arguments that a function needs are called **parameters**.
 
 Let's take examples from some few popular programming languages;
 ```javascript
-Javascript 
 function add(a, b) {
   return a + b
 }
 ```
 ```python
-Python 
 def add(a, b):
     return a + b
 ```
 ```rust
-Rust
 fn add(a:int, b:int)->int {
   a + b
 }
 ```
-We will discuss function in detail in our **Function** article. For now knowledge of these basic concepts is very important in your coding journey. Don't just brush over them but internalize them to make your journey smooth. See you in another article,l!
+We will discuss function in detail in our **Function** article. For now, knowledge of these basic concepts is very important in your coding journey. Don't just brush over them but internalize them to make your journey smooth. See you in another article,l!
