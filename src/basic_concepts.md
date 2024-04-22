@@ -60,15 +60,18 @@ Usually a function has a particula number of **arguments** that needs in order f
 
 Let's take examples from some few popular programming languages;
 ```javascript
+Javascript 
 function add(a, b) {
   return a + b
 }
 ```
 ```python
+Python 
 def add(a, b):
     return a + b
 ```
 ```rust
+Rust
 fn add(a:int, b:int)->int {
   a + b
 }
